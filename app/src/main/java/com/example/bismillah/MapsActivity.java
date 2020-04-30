@@ -70,6 +70,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.addMarker(new MarkerOptions().position(SPBU7).title("Marker in SPBU Soekarno Hatta"));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(SPBU7));
 
+        //coba
+
 
     }
 }
